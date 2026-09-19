@@ -12,3 +12,5 @@ This is a tribute to RecRoom, as I am starting my journey on recovering the webs
 # Where you can host it:
 
 You can host it on any website, like Render, Vercel (may need to convert files), and even Cloudflare! You can also host this on SquareSpace (the original hosting platform), which will work best.
+
+made possible with the save all resources extension, visit this link to get it: https://chromewebstore.google.com/detail/save-all-resources/abpdnfjocnmdomablahdcfnoggeeiedb
